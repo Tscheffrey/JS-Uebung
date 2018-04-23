@@ -2,7 +2,7 @@
 var ergebnis = "";
 
 // die for-Schleife läuft von i=0 bis i=10
-for (var i=0; i < 10; i=i+1) {
+for (var i=0; i<10; i=i+1) {
 
   // Ziffer aus i zum Ergebnis hinzufügen
   ergebnis = ergebnis + i;
