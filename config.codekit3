@@ -30,24 +30,24 @@
 	"\/Übung 1\/alternative1_inline.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/Übung 1\/alternative1_inline.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/Übung 1\/alternative2_extern.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/Übung 1\/alternative2_extern.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/Übung 1\/main.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/Übung 1\/main-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		}
