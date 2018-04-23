@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26330",
 "files": {
+	"\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -17,9 +24,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/README.html",
-		"oF": 1,
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -40,6 +47,16 @@
 		"oA": 1,
 		"oAP": "\/Übung 1\/alternative2_extern.html",
 		"oF": 1
+		},
+	"\/Übung 1\/main-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/Übung 1\/main-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"\/Übung 1\/main.js": {
 		"ft": 64,
