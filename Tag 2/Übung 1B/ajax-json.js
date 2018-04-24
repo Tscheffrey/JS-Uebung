@@ -8,9 +8,11 @@ function  fetchMessage()
       //  HTTP-Rückmeldung  erfolgreich  (200)
       if(this.status ==  200)  {
         console.log(this);
+
         //  Hier  vervollständigen,  um  erhaltende  Antwort  als  Text  in  „ausgabe“  auszugeben:
-        //var  antwortObjekt  =
-        //document.getElementById("ausgabe").innerText =
+        var  antwortObjekt  = JSON.parse(this.responseText);
+        console.log(antwortObjekt);
+        document.getElementById("ausgabe").innerText = antwortObjekt.message;
       }
       else  {
         alert("Es  ist  ein  Fehler  aufgetreten!");
